@@ -10,6 +10,7 @@ Sponsored by [There's an AI](https://theresanai.com)
 
 | Directory | DR | Tagline |
 |:----------|:----------|:----------|
+| [300 AI Directories](https://300aidirectories.com/) | 45 | Submit your AI or SaaS to 300+ directories for backlinks & SEO |
 | [There's An AI](https://directory.surf/go/theres-an-ai) | 25 | A curated collection of top AI tools |
 | [Futurepedia](https://directory.surf/go/futurepedia) | 71 | Find the best AI tools & software |
 | [Robopost](https://directory.surf/go/robopost) | 69 | Discover the best AI websites & tools |
