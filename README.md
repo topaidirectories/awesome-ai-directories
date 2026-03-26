@@ -96,6 +96,7 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [AI Daily Hacks](https://directory.surf/go/ai-daily-hacks) | 0 | Discover new AI tools everyday |
 | [AI Testing Tools](https://directory.surf/go/ai-testing-tools) | 0 | Your one-stop destination for AI-powered tools for software testing, test automation, etc. |
 | [AI Tool List](https://directory.surf/go/ai-tool-list) | 0 | Discover tools to supercharge your AI journey |
+| [AIMiracle MAG](https://aimiracle.ai) | 0 | Daily AI news, tool discoveries & tutorials |
 | [AI-Tools Directory](https://directory.surf/go/ai-tools-directory) | 0 | A directory of AI tools curated by AI itself |
 | [AI Tools Magazine](https://directory.surf/go/ai-tools-magazine) | 0 | Find the best AI tools & increase your productivity by 10x |
 | [AIBlog.Tools](https://directory.surf/go/aiblog-tools) | 0 | Finding the best AI blog tools to supercharge your blogging workflow |
