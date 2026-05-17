@@ -28,7 +28,7 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [BAI.tools](https://directory.surf/go/bai-tools) | 53 | Discover the best AI tools of 2024 with the bai.tools AI directory |
 | [AITopTools](https://directory.surf/go/aitoptools) | 51 | Find the best AI tools |
 | [AIStage](https://directory.surf/go/aistage) | 49 | Discover the best AI tools, AI websites, and AI open source projects, and get the latest AI news |
-| [Appscribed](https://directory.surf/go/appscribed) | 46 | Find the best AI tools for your needs, all in one place |
+| [Appscribed](https://directory.surf/go/appscribed) | 46 | AI tools directory and submission platform for discovering and listing AI software |
 | [Based Tools](https://directory.surf/go/based-tools) | 46 | The most based AI directory |
 | [Insidr AI Directory](https://directory.surf/go/insidr-ai-directory) | 46 | Best AI tools directory |
 | [All Things AI](https://directory.surf/go/all-things-ai) | 43 | The curated resource of AI tools |
