@@ -90,6 +90,7 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [Dynamite AI](https://directory.surf/go/dynamite-ai) | 4 | Find the best AI tools for your needs |
 | [Future AGI Tools](https://directory.surf/go/future-agi-tools) | 4 | Find the best AI tools |
 | [Tools.so](https://directory.surf/go/tools-so) | 4 | Growing directory of the best AI tools on the internet |
+| [AIToolIndex](https://aitoolindex.io/) | 4 | Searchable AI tool directory for comparing AI software by category, pricing, and workflow fit |
 | [AI SEO List](https://directory.surf/go/ai-seo-list) | 3 | Discover the best AI tools for SEO |
 | [All The AI Tools](https://directory.surf/go/all-the-ai-tools) | 3 | Explore the largest collection of AI tools |
 | [AI Pulse](https://directory.surf/go/ai-pulse) | 2 | Your trusted source for in-depth reviews of the latest AI tools and technologies |
