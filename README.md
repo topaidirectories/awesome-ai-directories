@@ -27,6 +27,7 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [AI Tool Trek](https://directory.surf/go/ai-tool-trek) | 54 | Curated list of latest AI tools & AI news |
 | [BAI.tools](https://directory.surf/go/bai-tools) | 53 | Discover the best AI tools of 2024 with the bai.tools AI directory |
 | [AITopTools](https://directory.surf/go/aitoptools) | 51 | Find the best AI tools |
+| [ZPlatform.ai](https://zplatform.ai/) | 51 | Directory of AI tools and SaaS deals, each tested with a Buy, Wait, or Skip verdict |
 | [AIStage](https://directory.surf/go/aistage) | 49 | Discover the best AI tools, AI websites, and AI open source projects, and get the latest AI news |
 | [Appscribed](https://directory.surf/go/appscribed) | 46 | Find the best AI tools for your needs, all in one place |
 | [Based Tools](https://directory.surf/go/based-tools) | 46 | The most based AI directory |
