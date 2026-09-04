@@ -99,4 +99,4 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [AI-Tools Directory](https://directory.surf/go/ai-tools-directory) | 0 | A directory of AI tools curated by AI itself |
 | [AI Tools Magazine](https://directory.surf/go/ai-tools-magazine) | 0 | Find the best AI tools & increase your productivity by 10x |
 | [AIBlog.Tools](https://directory.surf/go/aiblog-tools) | 0 | Finding the best AI blog tools to supercharge your blogging workflow |
-| [SaaSCity](https://saascity.io/) | 46 | Gamified SaaS directory — every listing becomes a building on a live city map |
+| [SaaSCity](https://saascity.io/) | 59 | Gamified SaaS directory — every listing becomes a building on a live city map |
