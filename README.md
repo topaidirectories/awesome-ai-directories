@@ -16,6 +16,7 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [Toolify.ai](https://directory.surf/go/toolify-ai) | 69 | Discover the best AI websites & tools |
 | [Tool Pilot](https://directory.surf/go/tool-pilot) | 68 | Navigate the world of AI tools |
 | [Grabon AI Directory](https://directory.surf/go/grabon-ai-directory) | 67 | The world’s best & largest directory of AI tools |
+| [SaaSCity](https://saascity.io/) | 64 | Gamified SaaS directory — every listing becomes a building on a live city map |
 | [Future Tools](https://directory.surf/go/future-tools) | 63 | Find the exact AI tool for your needs |
 | [DokeyAI](https://directory.surf/go/dokeyai) | 62 | Discover your favorite AI tools |
 | [TopAI.tools](https://directory.surf/go/topai-tools) | 59 | Find the best AI tools for every task |
@@ -99,4 +100,3 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [AI-Tools Directory](https://directory.surf/go/ai-tools-directory) | 0 | A directory of AI tools curated by AI itself |
 | [AI Tools Magazine](https://directory.surf/go/ai-tools-magazine) | 0 | Find the best AI tools & increase your productivity by 10x |
 | [AIBlog.Tools](https://directory.surf/go/aiblog-tools) | 0 | Finding the best AI blog tools to supercharge your blogging workflow |
-| [SaaSCity](https://saascity.io/) | 59 | Gamified SaaS directory — every listing becomes a building on a live city map |
