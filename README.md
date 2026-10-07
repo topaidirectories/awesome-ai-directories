@@ -18,6 +18,7 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [Grabon AI Directory](https://directory.surf/go/grabon-ai-directory) | 67 | The world’s best & largest directory of AI tools |
 | [Future Tools](https://directory.surf/go/future-tools) | 63 | Find the exact AI tool for your needs |
 | [DokeyAI](https://directory.surf/go/dokeyai) | 62 | Discover your favorite AI tools |
+| [FalcoScan](https://falcoscan.com) | 0 | Rankings for 7,000+ AI products across 29 markets |
 | [TopAI.tools](https://directory.surf/go/topai-tools) | 59 | Find the best AI tools for every task |
 | [aitools.inc](https://directory.surf/go/aitools-inc) | 58 | Discover tools to free up your time and 10x your output |
 | [Easy with AI](https://directory.surf/go/easy-with-ai) | 57 | The best AI tools & services in one place |
