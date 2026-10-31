@@ -49,6 +49,7 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [Best Directories](https://directory.surf/go/best-directories) | 32 | Your ultimate directory of directories |
 | [God of Prompt](https://directory.surf/go/god-of-prompt) | 32 | Discover 1000+ best AI tools |
 | [AI Best Tools](https://directory.surf/go/ai-best-tools) | 30 | Discover the latest and the best AI tools of 2024 in AIBest |
+| [ListAIHub](https://listaihub.com/) | 30 | Multilingual directory of curated AI tools with developer Token API |
 | [AI Agents Directory](https://directory.surf/go/ai-agents-directory) | 29 | The marketplace for AI agents |
 | [AI Best Top](https://directory.surf/go/ai-best-top) | 29 | Discover the best AI tools 2024 |
 | [AI Parabellum](https://directory.surf/go/ai-parabellum) | 29 | Top AI tools to boost productivity and enhance skills |
