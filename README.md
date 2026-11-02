@@ -99,3 +99,5 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [AI-Tools Directory](https://directory.surf/go/ai-tools-directory) | 0 | A directory of AI tools curated by AI itself |
 | [AI Tools Magazine](https://directory.surf/go/ai-tools-magazine) | 0 | Find the best AI tools & increase your productivity by 10x |
 | [AIBlog.Tools](https://directory.surf/go/aiblog-tools) | 0 | Finding the best AI blog tools to supercharge your blogging workflow |
+
+- [AIToolNotes](https://aitoolnotes.blogspot.com) - Curated directory of free AI tools with detailed comparisons and guides for students, marketers, developers, and businesses.
