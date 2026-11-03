@@ -11,6 +11,7 @@ Sponsored by [There's an AI](https://theresanai.com)
 | Directory | DR | Tagline |
 |:----------|:----------|:----------|
 | [There's An AI](https://directory.surf/go/theres-an-ai) | 25 | A curated collection of top AI tools |
+| [Siteefy](https://siteefy.com/submit-tool?utm_source=topaidirectories) | 76 | Find the right tools and sites for any task |
 | [Futurepedia](https://directory.surf/go/futurepedia) | 71 | Find the best AI tools & software |
 | [Robopost](https://directory.surf/go/robopost) | 69 | Discover the best AI websites & tools |
 | [Toolify.ai](https://directory.surf/go/toolify-ai) | 69 | Discover the best AI websites & tools |
