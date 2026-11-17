@@ -87,6 +87,7 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [Rise Of Machine](https://directory.surf/go/rise-of-machine) | 7 | Discover AI tools curated for makers and SMBs |
 | [AI Image and Video Generators](https://directory.surf/go/ai-image-and-video-generators) | 6 | Discover top AI visual tools |
 | [Stackviv AI](https://directory.surf/go/stackviv-ai) | 5 | Generative AI tools directory  |
+| [AI-Vision](https://ai-vision.top) | 5 | Product discovery & Generative Engine Optimization (GEO) platform |
 | [Dynamite AI](https://directory.surf/go/dynamite-ai) | 4 | Find the best AI tools for your needs |
 | [Future AGI Tools](https://directory.surf/go/future-agi-tools) | 4 | Find the best AI tools |
 | [Tools.so](https://directory.surf/go/tools-so) | 4 | Growing directory of the best AI tools on the internet |
