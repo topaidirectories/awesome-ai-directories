@@ -69,6 +69,7 @@ Sponsored by [There's an AI](https://theresanai.com)
 | [AI Tool Board](https://directory.surf/go/ai-tool-board) | 18 | Browse the best AI tools |
 | [AI Trendz](https://directory.surf/go/ai-trendz) | 17 | Find AI tools that will change your life |
 | [ToolsAI](https://directory.surf/go/toolsai) | 17 | Best AI tools directory |
+| [The AI Ledger](https://ailedger.uk/submit-your-ai-tool) | 17 | Independent directory of AI tools for accountants and bookkeepers |
 | [There's An AI](https://directory.surf/go/theres-an-ai) | 15 | A curated collection of top AI tools |
 | [AI Pedia Hub](https://directory.surf/go/ai-pedia-hub) | 14 | Discover what AI can do for you |
 | [AItrendytools](https://directory.surf/go/aitrendytools) | 13 | Find a comprehensive list of AI tools with AItrendytools |
